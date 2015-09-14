@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ ! -d "/phpmemcachedadmin/Config" ]; then 
+if [ ! -d "/phpmemcachedadmin/Config" ]; then
     mv /usr/share/nginx/html/Config /phpmemcachedadmin
     ln -s /phpmemcachedadmin/Config /usr/share/nginx/html/
 else
