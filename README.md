@@ -1,6 +1,8 @@
 Automated build of phpMemcachedAdmin with Docker (w/ igbinary support)
 ===========
 
+[![Build Status](https://travis-ci.org/marcelosousaalmeida/phpmemcachedadmin-docker.svg?branch=master)](https://travis-ci.org/marcelosousaalmeida/phpmemcachedadmin-docker)
+
 ### Use the pre built image
 The pre built image can be downloaded using docker directly. After that you do not need to use this command again, you will have the image on your machine.
 
